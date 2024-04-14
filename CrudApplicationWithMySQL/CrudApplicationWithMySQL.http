@@ -1,0 +1,6 @@
+@CrudApplicationWithMySQL_HostAddress = http://localhost:5159
+
+GET {{CrudApplicationWithMySQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
