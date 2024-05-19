@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudStoredProcedure", "CrudStoredProcedure.csproj", "{2A67AC16-9664-4249-91E0-40905DB9AADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A67AC16-9664-4249-91E0-40905DB9AADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A67AC16-9664-4249-91E0-40905DB9AADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A67AC16-9664-4249-91E0-40905DB9AADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A67AC16-9664-4249-91E0-40905DB9AADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB9CBC10-8FC5-432F-9EBA-CE50615FDFA3}
+	EndGlobalSection
+EndGlobal
